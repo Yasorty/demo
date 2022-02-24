@@ -1,0 +1,154 @@
+code_dpto,dpto,code_muni,muni,Creditos,Monto,Socias,Anio
+05,Nueva Segovia,0505,Jalapa,0,0,0,0000
+05,Nueva Segovia,0510,Murra,0,0,0,0000
+05,Nueva Segovia,0515,El Jicaro,0,0,0,0000
+05,Nueva Segovia,0520,San Fernando,0,0,0,0000
+05,Nueva Segovia,0525,Mozonte,0,0,0,0000
+05,Nueva Segovia,0530,Dipilto,0,0,0,0000
+05,Nueva Segovia,0535,Macuelizo,0,0,0,0000
+05,Nueva Segovia,0540,Santa Maria,0,0,0,0000
+05,Nueva Segovia,0545,Ocotal,0,0,0,0000
+05,Nueva Segovia,0550,Ciudad Antigua,0,0,0,0000
+05,Nueva Segovia,0555,Quilali,0,0,0,0000
+05,Nueva Segovia,0560,Wiwili (N.S.),0,0,0,0000
+10,Jinotega,1005,Wiwili (Jin.),0,0,0,0000
+10,Jinotega,1010,El Cua,0,0,0,0000
+10,Jinotega,1012,San Jose de Bocay,0,0,0,0000
+10,Jinotega,1015,Santa Maria de Pantasma,0,0,0,0000
+10,Jinotega,1020,San Rafael del Norte,0,0,0,0000
+10,Jinotega,1025,San Sebastian de Yali,0,0,0,0000
+10,Jinotega,1030,La Concordia,0,0,0,0000
+10,Jinotega,1035,Jinotega,0,0,0,0000
+20,Madriz,2005,Somoto,0,0,0,0000
+20,Madriz,2010,Totogalpa,0,0,0,0000
+20,Madriz,2015,Telpaneca,0,0,0,0000
+20,Madriz,2020,San Juan de Rio Coco,0,0,0,0000
+20,Madriz,2025,Palacaguina,0,0,0,0000
+20,Madriz,2030,Yalaguina,0,0,0,0000
+20,Madriz,2035,San Lucas,0,0,0,0000
+20,Madriz,2040,Las Sabanas,0,0,0,0000
+20,Madriz,2045,San Jose de Cusmapa,0,0,0,0000
+25,Esteli,2505,Pueblo Nuevo,0,0,0,0000
+25,Esteli,2510,Condega,0,0,0,0000
+25,Esteli,2515,Esteli,0,0,0,0000
+25,Esteli,2520,San Juan de Limay,0,0,0,0000
+25,Esteli,2525,La Trinidad,0,0,0,0000
+25,Esteli,2530,San Nicolas,0,0,0,0000
+30,Chinandega,3005,San Pedro del Norte,0,0,0,0000
+30,Chinandega,3010,San Francisco del Norte,0,0,0,0000
+30,Chinandega,3015,Cinco Pinos,0,0,0,0000
+30,Chinandega,3020,Santo Tomas del Norte,0,0,0,0000
+30,Chinandega,3025,El Viejo,0,0,0,0000
+30,Chinandega,3030,Puerto Morazan,0,0,0,0000
+30,Chinandega,3035,Somotillo,0,0,0,0000
+30,Chinandega,3040,Villa Nueva,0,0,0,0000
+30,Chinandega,3045,Chinandega,0,0,0,0000
+30,Chinandega,3050,El Realejo,0,0,0,0000
+30,Chinandega,3055,Corinto,0,0,0,0000
+30,Chinandega,3060,Chichigalpa,0,0,0,0000
+30,Chinandega,3065,Posoltega,0,0,0,0000
+35,Leon,3535,Quezalguaque,0,0,0,0000
+35,Leon,3540,Leon,0,0,0,0000
+35,Leon,3530,Telica,0,0,0,0000
+35,Leon,3520,El Jicaral,0,0,0,0000
+35,Leon,3510,El Sauce,0,0,0,0000
+35,Leon,3525,Larreynaga,0,0,0,0000
+35,Leon,3545,La Paz Centro,0,0,0,0000
+35,Leon,3515,Santa Rosa del Peñon,0,0,0,0000
+35,Leon,3505,Achuapa,0,0,0,0000
+35,Leon,3550,Nagarote,0,0,0,0000
+40,Matagalpa,4005,Rancho Grande,0,0,0,0000
+40,Matagalpa,4010,Rio Blanco,0,0,0,0000
+40,Matagalpa,4015,El Tuma-La Dalia,0,0,0,0000
+40,Matagalpa,4020,San Isidro,0,0,0,0000
+40,Matagalpa,4025,Sebaco,0,0,0,0000
+40,Matagalpa,4030,Matagalpa,0,0,0,0000
+40,Matagalpa,4035,San Ramón,0,0,0,0000
+40,Matagalpa,4040,Matiguas,0,0,0,0000
+40,Matagalpa,4045,Muy Muy,0,0,0,0000
+40,Matagalpa,4050,Esquipulas,0,0,0,0000
+40,Matagalpa,4055,San Dionisio,0,0,0,0000
+40,Matagalpa,4060,Terrabona,0,0,0,0000
+40,Matagalpa,4065,Ciudad Dario,0,0,0,0000
+50,Boaco,5005,Sn Jose de los Remates,0,0,0,0000
+50,Boaco,5010,Boaco,0,0,0,0000
+50,Boaco,5015,Camoapa,0,0,0,0000
+50,Boaco,5020,Santa Lucia,0,0,0,0000
+50,Boaco,5025,Teustepe,0,0,0,0000
+50,Boaco,5030,San Lorenzo,0,0,0,0000
+55,Managua,5505,San Francisco Libre,0,0,0,0000
+55,Managua,5510,Tipitapa,0,0,0,0000
+55,Managua,5515,Mateare,0,0,0,0000
+55,Managua,5520,Villa Carlos Fonseca,0,0,0,0000
+55,Managua,5522,Ciudad Sandino,0,0,0,0000
+55,Managua,5525,Managua,0,0,0,0000
+55,Managua,5530,Ticuantepe,0,0,0,0000
+55,Managua,5532,El Crucero,0,0,0,0000
+55,Managua,5535,San Rafael del Su,0,0,0,0000
+60,Masaya,6005,Nindiri,0,0,0,0000
+60,Masaya,6010,Masaya,0,0,0,0000
+60,Masaya,6015,Tisma,0,0,0,0000
+60,Masaya,6020,La Concepcion,0,0,0,0000
+60,Masaya,6025,Masatepe,0,0,0,0000
+60,Masaya,6030,Nandasmo,0,0,0,0000
+60,Masaya,6035,Catarina,0,0,0,0000
+60,Masaya,6040,San Juan de Oriente,0,0,0,0000
+60,Masaya,6045,Niquinohomo,0,0,0,0000
+65,Chontales,6505,Comalapa,0,0,0,0000
+65,Chontales,6507,San Francisco de Cuapa,0,0,0,0000
+65,Chontales,6510,Juigalpa,0,0,0,0000
+65,Chontales,6515,La Libertad,0,0,0,0000
+65,Chontales,6520,Santo Domingo,0,0,0,0000
+65,Chontales,6525,Santo Tomas,0,0,0,0000
+65,Chontales,6530,San Pedro de Lovago,0,0,0,0000
+65,Chontales,6535,Acoyapa,0,0,0,0000
+65,Chontales,6540,Villa Sandino,0,0,0,0000
+65,Chontales,6545,El Coral,0,0,0,0000
+70,Granada,7005,Diria,0,0,0,0000
+70,Granada,7010,Diriomo,0,0,0,0000
+70,Granada,7015,Granada,0,0,0,0000
+70,Granada,7020,Nandaime,0,0,0,0000
+75,Carazo,7505,San Marcos,0,0,0,0000
+75,Carazo,7510,Jinotepe,0,0,0,0000
+75,Carazo,7515,Dolores,0,0,0,0000
+75,Carazo,7520,Diriamba,0,0,0,0000
+75,Carazo,7525,El Rosario,0,0,0,0000
+75,Carazo,7530,La Paz de Carazo,0,0,0,0000
+75,Carazo,7535,Santa Teresa,0,0,0,0000
+75,Carazo,7540,La Conquista,0,0,0,0000
+80,Rivas,8005,Tola,0,0,0,0000
+80,Rivas,8010,Belen,0,0,0,0000
+80,Rivas,8015,Potosi,0,0,0,0000
+80,Rivas,8020,Buenos Aires,0,0,0,0000
+80,Rivas,8025,Moyogalpa,0,0,0,0000
+80,Rivas,8030,Altagracia,0,0,0,0000
+80,Rivas,8035,San Jorge,0,0,0,0000
+80,Rivas,8040,Rivas,0,0,0,0000
+80,Rivas,8045,San Juan del Sur,0,0,0,0000
+80,Rivas,8050,Cardenas,0,0,0,0000
+85,Rio San Juan,8510,El Almendro,0,0,0,0000
+85,Rio San Juan,8505,Morrito,0,0,0,0000
+85,Rio San Juan,8525,El Castillo,0,0,0,0000
+85,Rio San Juan,8530,San Juan de Nicaragua,0,0,0,0000
+85,Rio San Juan,8520,San Carlos,0,0,0,0000
+85,Rio San Juan,8515,San Miguelito,0,0,0,0000
+91,Region Autonoma de la Costa Caribe Norte,9125,Mulukuku,0,0,0,0000
+91,Region Autonoma de la Costa Caribe Norte,9127,Waslala,0,0,0,0000
+91,Region Autonoma de la Costa Caribe Norte,9130,Siuna,0,0,0,0000
+91,Region Autonoma de la Costa Caribe Norte,9120,Bonanza,0,0,0,0000
+91,Region Autonoma de la Costa Caribe Norte,9105,Waspam,0,0,0,0000
+91,Region Autonoma de la Costa Caribe Norte,9115,Rosita,0,0,0,0000
+91,Region Autonoma de la Costa Caribe Norte,9110,Puerto Cabezas,0,0,0,0000
+91,Region Autonoma de la Costa Caribe Norte,9135,Prinzapolka,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9345,Nueva Guinea,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9310,La Cruz de Rio Grande,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9305,Paiwas,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9316,El Tortuguero,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9325,Muelle de Los Bueyes,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9330,Kukrahill,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9320,El Rama,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9312,Desembocadura de Rio Grande,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9315,Laguna de Perlas,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9323,El Ayote,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9340,Bluefields,0,0,0,0000
+93,Region Autonoma de la Costa Caribe Sur,9335,Corn Island,0,0,0,0000

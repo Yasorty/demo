@@ -1,0 +1,154 @@
+code_dpto,dpto,code_muni,muni,Creditos,Monto,Socias,Anio
+05,Nueva Segovia,0505,Jalapa,597,3197250,597,2008
+05,Nueva Segovia,0515,El Jicaro,411,2065550,411,2008
+05,Nueva Segovia,0520,San Fernando,82,394650,82,2008
+05,Nueva Segovia,0525,Mozonte,34,155050,34,2008
+05,Nueva Segovia,0530,Dipilto,26,132200,26,2008
+05,Nueva Segovia,0535,Macuelizo,27,138500,27,2008
+05,Nueva Segovia,0540,Santa Maria,21,114600,21,2008
+05,Nueva Segovia,0545,Ocotal,620,3099050,620,2008
+05,Nueva Segovia,0550,Ciudad Antigua,23,100150,23,2008
+05,Nueva Segovia,0555,Quilali,65,336600,65,2008
+05,Nueva Segovia,0510,Murra,0,0,0,2008
+10,Jinotega,1005,Wiwili (Jin.),198,977950,198,2008
+10,Jinotega,1010,El Cua,160,783650,160,2008
+10,Jinotega,1012,San Jose de Bocay,152,830600,152,2008
+10,Jinotega,1015,Santa Maria de Pantasma,100,505600,100,2008
+10,Jinotega,1020,San Rafael del Norte,95,492450,95,2008
+10,Jinotega,1025,San Sebastian de Yali,147,681800,147,2008
+10,Jinotega,1030,La Concordia,57,275400,57,2008
+10,Jinotega,1035,Jinotega,1009,5261100,1009,2008
+20,Madriz,2005,Somoto,718,3693200,718,2008
+20,Madriz,2010,Totogalpa,96,463350,96,2008
+20,Madriz,2015,Telpaneca,158,777100,158,2008
+20,Madriz,2020,San Juan de Rio Coco,240,1240800,240,2008
+20,Madriz,2025,Palacaguina,197,965150,197,2008
+20,Madriz,2030,Yalaguina,129,598200,129,2008
+20,Madriz,2035,San Lucas,16,59700,16,2008
+20,Madriz,2040,Las Sabanas,84,420050,84,2008
+20,Madriz,2045,San Jose de Cusmapa,111,564050,111,2008
+25,Esteli,2505,Pueblo Nuevo,250,1234750,250,2008
+25,Esteli,2510,Condega,448,2240150,448,2008
+25,Esteli,2515,Esteli,1793,9550050,1793,2008
+25,Esteli,2520,San Juan de Limay,194,964200,194,2008
+25,Esteli,2525,La Trinidad,203,1097450,203,2008
+25,Esteli,2530,San Nicolas,21,93600,21,2008
+30,Chinandega,3005,San Pedro del Norte,57,279900,57,2008
+30,Chinandega,3010,San Francisco del Norte,100,507400,100,2008
+30,Chinandega,3015,Cinco Pinos,169,846650,169,2008
+30,Chinandega,3020,Santo Tomas del Norte,167,676050,167,2008
+30,Chinandega,3025,El Viejo,525,2729450,525,2008
+30,Chinandega,3030,Puerto Morazan,291,1583350,291,2008
+30,Chinandega,3035,Somotillo,540,2270100,540,2008
+30,Chinandega,3040,Villa Nueva,278,1481600,278,2008
+30,Chinandega,3045,Chinandega,2017,10357250,1944,2008
+30,Chinandega,3050,El Realejo,227,1158650,227,2008
+30,Chinandega,3055,Corinto,607,3029450,600,2008
+30,Chinandega,3060,Chichigalpa,347,1821450,347,2008
+30,Chinandega,3065,Posoltega,226,1210550,226,2008
+35,Leon,3505,Achuapa,205,955000,70,2008
+35,Leon,3510,El Sauce,487,2448850,168,2008
+35,Leon,3515,Santa Rosa del Peñon,108,581250,43,2008
+35,Leon,3520,El Jicaral,165,871400,44,2008
+35,Leon,3525,Larreynaga,755,3423750,221,2008
+35,Leon,3530,Telica,965,4723100,309,2008
+35,Leon,3535,Quezalguaque,325,1600000,102,2008
+35,Leon,3540,Leon,5529,29028300,1551,2008
+35,Leon,3545,La Paz Centro,638,3381300,195,2008
+35,Leon,3550,Nagarote,685,3210350,184,2008
+40,Matagalpa,4005,Rancho Grande,103,543750,103,2008
+40,Matagalpa,4010,Rio Blanco,216,1136300,216,2008
+40,Matagalpa,4015,El Tuma-La Dalia,357,1825050,357,2008
+40,Matagalpa,4020,San Isidro,200,1069200,200,2008
+40,Matagalpa,4025,Sebaco,731,3860600,730,2008
+40,Matagalpa,4030,Matagalpa,1450,7297250,1444,2008
+40,Matagalpa,4035,San Ramon,112,528700,112,2008
+40,Matagalpa,4040,Matiguas,187,980250,187,2008
+40,Matagalpa,4045,Muy Muy,110,569500,110,2008
+40,Matagalpa,4050,Esquipulas,196,979950,196,2008
+40,Matagalpa,4055,San Dionisio,147,753850,147,2008
+40,Matagalpa,4060,Terrabona,85,460250,85,2008
+40,Matagalpa,4065,Ciudad Dario,784,4120300,784,2008
+50,Boaco,5005,Sn Jose de los Remates,0,0,0,2008
+50,Boaco,5010,Boaco,111,606850,111,2008
+50,Boaco,5015,Camoapa,95,507000,95,2008
+50,Boaco,5015,Camoapa,0,0,0,2008
+50,Boaco,5025,Teustepe,138,669150,138,2008
+50,Boaco,5030,San Lorenzo,164,868550,164,2008
+55,Managua,5505,San Francisco Libre,64,323950,64,2008
+55,Managua,5510,Tipitapa,1648,8879400,1473,2008
+55,Managua,5515,Mateare,441,2377500,440,2008
+55,Managua,5520,Villa Carlos Fonseca,436,2265400,436,2008
+55,Managua,5522,Ciudad Sandino,1260,6729250,1201,2008
+55,Managua,5525,Managua,15353,83400600,13648,2008
+55,Managua,5530,Ticuantepe,351,1849150,351,2008
+55,Managua,5532,El Crucero,220,1080050,220,2008
+55,Managua,5535,San Rafael del Sur,753,3995500,751,2008
+60,Masaya,6005,Nindiri,1741,9280950,1214,2008
+60,Masaya,6010,Masaya,5285,28433850,4501,2008
+60,Masaya,6015,Tisma,408,2155200,408,2008
+60,Masaya,6020,La Concepcion,419,2284600,419,2008
+60,Masaya,6025,Masatepe,592,3178150,592,2008
+60,Masaya,6030,Nandasmo,459,2482750,459,2008
+60,Masaya,6035,Catarina,443,2341400,443,2008
+60,Masaya,6040,San Juan de Oriente,414,2217050,414,2008
+60,Masaya,6045,Niquinohomo,389,2042550,388,2008
+65,Chontales,6505,Comalapa,0,0,0,2007
+65,Chontales,6507,San Francisco de Cuapa,25,129350,25,2008
+65,Chontales,6510,Juigalpa,408,2155250,408,2008
+65,Chontales,6515,La Libertad,134,723450,134,2008
+65,Chontales,6520,Santo Domingo,67,305450,67,2008
+65,Chontales,6525,Santo Tomas,205,1107600,205,2008
+65,Chontales,6530,San Pedro de Lovago,27,137550,27,2008
+65,Chontales,6535,Acoyapa,77,409950,77,2008
+65,Chontales,6540,Villa Sandino,0,0,0,2008
+65,Chontales,6545,El Coral,0,0,0,2008
+70,Granada,7005,Diria,260,1350050,260,2008
+70,Granada,7010,Diriomo,641,3299250,641,2008
+70,Granada,7015,Granada,2228,11744550,2117,2008
+70,Granada,7020,Nandaime,960,5080900,960,2008
+75,Carazo,7505,San Marcos,621,3186000,621,2008
+75,Carazo,7510,Jinotepe,842,4475450,842,2008
+75,Carazo,7515,Dolores,165,849400,165,2008
+75,Carazo,7520,Diriamba,710,3715200,709,2008
+75,Carazo,7525,El Rosario,135,702500,134,2008
+75,Carazo,7530,La Paz de Carazo,145,736400,145,2008
+75,Carazo,7535,Santa Teresa,337,1760000,337,2008
+75,Carazo,7540,La Conquista,81,389200,81,2008
+80,Rivas,8005,Tola,272,1312150,272,2008
+80,Rivas,8010,Belen,149,742250,149,2008
+80,Rivas,8015,Potosi,173,908850,173,2008
+80,Rivas,8020,Buenos Aires,160,835350,160,2008
+80,Rivas,8025,Moyogalpa,189,1030450,189,2008
+80,Rivas,8030,Altagracia,194,1031650,194,2008
+80,Rivas,8035,San Jorge,303,1622100,303,2008
+80,Rivas,8040,Rivas,774,4189000,774,2008
+80,Rivas,8045,San Juan del Sur,229,1236950,229,2008
+80,Rivas,8050,Cardenas,112,592250,112,2008
+80,Rivas,8050,Cardenas,0,0,0,2008
+85,Rio San Juan,8510,El Almendro,0,0,0,2008
+85,Rio San Juan,8505,Morrito,0,0,0,2008
+85,Rio San Juan,8525,El Castillo,0,0,0,2008
+85,Rio San Juan,8530,San Juan de Nicaragua,0,0,0,2008
+85,Rio San Juan,8520,San Carlos,0,0,0,2008
+85,Rio San Juan,8515,San Miguelito,0,0,0,2008
+91,Region Autonoma de la Costa Caribe Norte,9125,Mulukuku,144,792000,144,2008
+91,Region Autonoma de la Costa Caribe Norte,9127,Waslala,266,1397650,266,2008
+91,Region Autonoma de la Costa Caribe Norte,9130,Siuna,0,0,0,2008
+91,Region Autonoma de la Costa Caribe Norte,9120,Bonanza,0,0,0,2008
+91,Region Autonoma de la Costa Caribe Norte,9105,Waspan,160,749450,160,2008
+91,Region Autonoma de la Costa Caribe Norte,9115,Rosita,0,0,0,2008
+91,Region Autonoma de la Costa Caribe Norte,9110,Puerto Cabezas,333,1796400,333,2008
+91,Region Autonoma de la Costa Caribe Norte,9135,Prinzapolka,0,0,0,2008
+93,Region Autonoma de la Costa Caribe Sur,9345,Nueva Guinea,498,4459000,498,2008
+93,Region Autonoma de la Costa Caribe Sur,9310,La Cruz de Rio Grande,0,0,0,2008
+93,Region Autonoma de la Costa Caribe Sur,9305,Paiwas,75,392450,75,2008
+93,Region Autonoma de la Costa Caribe Sur,9316,El Tortuguero,0,0,0,2008
+93,Region Autonoma de la Costa Caribe Sur,9325,Muelle de los Bueyes,160,1200600,160,2008
+93,Region Autonoma de la Costa Caribe Sur,9330,Kukrahill,0,0,0,2008
+93,Region Autonoma de la Costa Caribe Sur,9320,El Rama,293,2567000,293,2008
+93,Region Autonoma de la Costa Caribe Sur,9312,Desembocadura de Rio Grande,0,0,0,2008
+93,Region Autonoma de la Costa Caribe Sur,9315,Laguna de Perlas,0,0,0,2008
+93,Region Autonoma de la Costa Caribe Sur,9323,El Ayote,38,208100,38,2008
+93,Region Autonoma de la Costa Caribe Sur,9340,Bluefields,0,0,0,2008
+93,Region Autonoma de la Costa Caribe Sur,9335,Corn Island,0,0,0,2008

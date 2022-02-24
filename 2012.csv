@@ -1,0 +1,154 @@
+code_dpto,dpto,code_muni,muni,Creditos,Monto,Socias,Anio
+05,Nueva Segovia,0505,Jalapa,773,4121750,168,2012
+05,Nueva Segovia,0510,Murra,181,968300,55,2012
+05,Nueva Segovia,0515,El Jicaro,162,887400,13,2012
+05,Nueva Segovia,0520,San Fernando,88,458500,26,2012
+05,Nueva Segovia,0525,Mozonte,188,960600,50,2012
+05,Nueva Segovia,0530,Dipilto,15,78900,5,2012
+05,Nueva Segovia,0535,Macuelizo,15,79750,4,2012
+05,Nueva Segovia,0540,Santa Maria,81,443700,23,2012
+05,Nueva Segovia,0545,Ocotal,1260,6796450,260,2012
+05,Nueva Segovia,0550,Ciudad Antigua,38,199050,3,2012
+05,Nueva Segovia,0555,Quilali,674,3640350,182,2012
+05,Nueva Segovia,0560,Wiwili (N.S.),281,1508350,85,2012
+10,Jinotega,1005,Wiwili (Jin.),46,253000,9,2012
+10,Jinotega,1010,El Cua,245,1328400,48,2012
+10,Jinotega,1012,San Jose de Bocay,218,1191800,59,2012
+10,Jinotega,1015,Santa Maria de Pantasma,348,1850000,87,2012
+10,Jinotega,1020,San Rafael del Norte,397,2120150,89,2012
+10,Jinotega,1025,San Sebastian de Yali,452,2452700,118,2012
+10,Jinotega,1030,La Concordia,312,1688050,81,2012
+10,Jinotega,1035,Jinotega,2015,10860450,523,2012
+20,Madriz,2005,Somoto,464,2446350,126,2012
+20,Madriz,2010,Totogalpa,75,402600,24,2012
+20,Madriz,2015,Telpaneca,362,1897550,124,2012
+20,Madriz,2020,San Juan de Rio Coco,660,3347000,201,2012
+20,Madriz,2025,Palacaguina,391,2075400,108,2012
+20,Madriz,2030,Yalaguina,324,1760350,90,2012
+20,Madriz,2035,San Lucas,31,122300,4,2012
+20,Madriz,2040,Las Sabanas,35,183500,14,2012
+20,Madriz,2045,San Jose de Cusmapa,35,179850,14,2012
+25,Esteli,2505,Pueblo Nuevo,266,1436000,62,2012
+25,Esteli,2510,Condega,449,2412800,123,2012
+25,Esteli,2515,Esteli,3651,19933600,823,2012
+25,Esteli,2520,San Juan de Limay,165,903900,40,2012
+25,Esteli,2525,La Trinidad,873,4752700,255,2012
+25,Esteli,2530,San Nicolas,121,632850,33,2012
+30,Chinandega,3005,San Pedro del Norte,25,137500,5,2012
+30,Chinandega,3010,San Francisco del Norte,99,524700,28,2012
+30,Chinandega,3015,Cinco Pinos,13,71500,2,2012
+30,Chinandega,3020,Santo Tomas del Norte,15,80700,2,2012
+30,Chinandega,3025,El Viejo,277,1448800,68,2012
+30,Chinandega,3030,Puerto Morazan,246,1317900,66,2012
+30,Chinandega,3035,Somotillo,653,3423050,167,2012
+30,Chinandega,3040,Villa Nueva,366,1957200,90,2012
+30,Chinandega,3045,Chinandega,4248,22412250,1174,2012
+30,Chinandega,3050,El Realejo,104,557600,18,2012
+30,Chinandega,3055,Corinto,190,998200,44,2012
+30,Chinandega,3060,Chichigalpa,1421,7596450,324,2012
+30,Chinandega,3065,Posoltega,100,524800,25,2012
+35,Leon,3505,Achuapa,281,1517550,88,2012
+35,Leon,3510,El Sauce,102,536700,16,2012
+35,Leon,3515,Santa Rosa del Peñon,292,1568200,100,2012
+35,Leon,3520,El Jicaral,75,412500,7,2012
+35,Leon,3525,Larreynaga,946,5113000,199,2012
+35,Leon,3530,Telica,1050,5570550,258,2012
+35,Leon,3535,Quezalguaque,220,1161300,38,2012
+35,Leon,3540,Leon,4267,22838750,951,2012
+35,Leon,3545,La Paz Centro,324,1728000,84,2012
+35,Leon,3550,Nagarote,300,1590500,51,2012
+40,Matagalpa,4005,Rancho Grande,61,312000,18,2012
+40,Matagalpa,4010,Rio Blanco,130,713200,31,2012
+40,Matagalpa,4015,El Tuma-La Dalia,319,1730200,64,2012
+40,Matagalpa,4020,San Isidro,383,2007500,99,2012
+40,Matagalpa,4025,Sebaco,784,4279600,194,2012
+40,Matagalpa,4030,Matagalpa,2077,11137550,463,2012
+40,Matagalpa,4035,San Ramon,95,500000,17,2012
+40,Matagalpa,4040,Matiguas,64,343900,24,2012
+40,Matagalpa,4045,Muy Muy,51,271450,8,2012
+40,Matagalpa,4050,Esquipulas,62,332850,8,2012
+40,Matagalpa,4055,San Dionisio,53,275300,14,2012
+40,Matagalpa,4060,Terrabona,28,152200,2,2012
+40,Matagalpa,4065,Ciudad Dario,657,3492750,162,2012
+50,Boaco,5005,Sn Jose de los Remates,46,249400,7,2012
+50,Boaco,5010,Boaco,1681,8905050,503,2012
+50,Boaco,5015,Camoapa,684,3711500,213,2012
+50,Boaco,5020,Santa Lucia,213,1131900,57,2012
+50,Boaco,5025,Teustepe,527,2870550,193,2012
+50,Boaco,5030,San Lorenzo,489,2651650,155,2012
+55,Managua,5505,San Francisco Libre,284,1525000,97,2012
+55,Managua,5510,Tipitapa,2478,13404000,586,2012
+55,Managua,5515,Mateare,116,636200,19,2012
+55,Managua,5520,Villa Carlos Fonseca,53,291500,11,2012
+55,Managua,5522,Ciudad Sandino,840,4564150,161,2012
+55,Managua,5525,Managua,23804,128634100,5232,2012
+55,Managua,5530,Ticuantepe,376,2055400,114,2012
+55,Managua,5532,El Crucero,40,218200,9,2012
+55,Managua,5535,San Rafael del Sur,225,1204200,67,2012
+60,Masaya,6005,Nindiri,2996,15871300,843,2012
+60,Masaya,6010,Masaya,4238,22830800,1019,2012
+60,Masaya,6015,Tisma,222,1185000,59,2012
+60,Masaya,6020,La Concepcion,1338,6929700,461,2012
+60,Masaya,6025,Masatepe,1205,6341200,387,2012
+60,Masaya,6030,Nandasmo,56,296200,14,2012
+60,Masaya,6035,Catarina,137,711150,41,2012
+60,Masaya,6040,San Juan de Oriente,301,1646500,106,2012
+60,Masaya,6045,Niquinohomo,568,2989000,174,2012
+65,Chontales,6505,Comalapa,98,522800,31,2012
+65,Chontales,6507,San Francisco de Cuapa,26,135800,6,2012
+65,Chontales,6510,Juigalpa,1399,7475800,363,2012
+65,Chontales,6515,La Libertad,70,363400,26,2012
+65,Chontales,6520,Santo Domingo,107,577700,24,2012
+65,Chontales,6525,Santo Tomas,274,1456600,75,2012
+65,Chontales,6530,San Pedro de Lovago,135,728100,32,2012
+65,Chontales,6535,Acoyapa,40,218200,8,2012
+65,Chontales,6540,Villa Sandino,63,342900,5,2012
+65,Chontales,6545,El Coral,151,765700,53,2012
+70,Granada,7005,Diria,101,518600,26,2012
+70,Granada,7010,Diriomo,322,1734950,82,2012
+70,Granada,7015,Granada,2647,14320600,598,2012
+70,Granada,7020,Nandaime,351,1843200,80,2012
+75,Carazo,7505,San Marcos,801,4329800,213,2012
+75,Carazo,7510,Jinotepe,1581,8521800,410,2012
+75,Carazo,7515,Dolores,190,1028800,44,2012
+75,Carazo,7520,Diriamba,1544,8316450,428,2012
+75,Carazo,7525,El Rosario,198,1054800,56,2012
+75,Carazo,7530,La Paz de Carazo,137,732750,49,2012
+75,Carazo,7535,Santa Teresa,252,1356250,53,2012
+75,Carazo,7540,La Conquista,80,422850,24,2012
+80,Rivas,8005,Tola,126,680400,37,2012
+80,Rivas,8010,Belen,287,1545200,89,2012
+80,Rivas,8015,Potosi,808,4321350,294,2012
+80,Rivas,8020,Buenos Aires,389,1790750,124,2012
+80,Rivas,8025,Moyogalpa,454,2460950,139,2012
+80,Rivas,8030,Altagracia,117,605650,30,2012
+80,Rivas,8035,San Jorge,452,2455400,142,2012
+80,Rivas,8040,Rivas,2683,14413950,738,2012
+80,Rivas,8045,San Juan del Sur,1074,5775550,358,2012
+80,Rivas,8050,Cardenas,410,2195500,149,2012
+85,Rio San Juan,8505,Morrito,258,1414500,67,2012
+85,Rio San Juan,8510,El Almendro,61,335500,17,2012
+85,Rio San Juan,8515,San Miguelito,314,1716200,92,2012
+85,Rio San Juan,8520,San Carlos,584,3178700,153,2012
+85,Rio San Juan,8525,El Castillo,261,1387650,77,2012
+85,Rio San Juan,8530,San Juan de Nicaragua,0,0,0,2012
+91,Region Autonoma de la Costa Caribe Norte,91050,Waspam,0,0,0,2012
+91,Region Autonoma de la Costa Caribe Norte,9110,Puerto Cabezas,98,537200,21,2012
+91,Region Autonoma de la Costa Caribe Norte,9115,Rosita,798,4385400,227,2012
+91,Region Autonoma de la Costa Caribe Norte,9120,Bonanza,524,2879300,169,2012
+91,Region Autonoma de la Costa Caribe Norte,9127,Waslala,283,1523200,88,2012
+91,Region Autonoma de la Costa Caribe Norte,9125,Mulukuku,80,436400,27,2012
+91,Region Autonoma de la Costa Caribe Norte,9130,Siuna,506,2767700,183,2012
+91,Region Autonoma de la Costa Caribe Norte,9135,Prinzapolka,0,0,0,2012
+93,Region Autonoma de la Costa Caribe Sur,9305,Paiwas,126,666000,42,2012
+93,Region Autonoma de la Costa Caribe Sur,9310,La Cruz de Rio Grande,0,0,0,0
+93,Region Autonoma de la Costa Caribe Sur,9312,Desembocadura de Rio Grande,0,0,0,0
+93,Region Autonoma de la Costa Caribe Sur,9315,Laguna de Perlas,138,751800,41,2012
+93,Region Autonoma de la Costa Caribe Sur,9316,El Tortuguero,0,0,0,2012
+93,Region Autonoma de la Costa Caribe Sur,9320,El Rama,479,2582300,170,2012
+93,Region Autonoma de la Costa Caribe Sur,9323,El Ayote,92,491600,25,2012
+93,Region Autonoma de la Costa Caribe Sur,9325,Muelle de los Bueyes,768,4148400,223,2012
+93,Region Autonoma de la Costa Caribe Sur,9330,Kukrahill,51,278700,6,2012
+93,Region Autonoma de la Costa Caribe Sur,9335,Corn Island,0,0,0,2012
+93,Region Autonoma de la Costa Caribe Sur,9340,Bluefields,315,1707300,55,2012
+93,Region Autonoma de la Costa Caribe Sur,9345,Nueva Guinea,1460,7929200,470,2012

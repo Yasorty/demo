@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Mapa interactivo - Programa Usura Cero</title>
+	<meta charset="utf-8" />
+	<meta content="utf-8" http-equiv="encoding">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Load d3.js -->
+	<script type="text/javascript" src="./d3.v4.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	<script type="text/javascript" src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+	<script type="text/javascript" src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+	
+	<link rel="stylesheet" href="./style.css">
+</head>
+<body onload="sizeChange()">
+
+	<main>
+        <div id="content">
+			<h1>Mapa interactivo - Programa Usura Cero</h1>
+			<label>Elija un año:
+				<select id="periodo" class="periodo">
+					<option value="">Seleccione</option>
+					<option value="2007">2007</option>
+					<option value="2008">2008</option>
+					<option value="2009">2009</option>
+					<option value="2010">2010</option>
+					<option value="2011">2011</option>
+					<option value="2012">2012</option>
+			   <!-- <option value="2013">2013</option>
+					<option value="2014">2014</option>
+					<option value="2015">2015</option>
+					<option value="2016">2016</option>
+					<option value="2017">2017</option>
+					<option value="2018">2018</option>
+					<option value="2019">2019</option>
+					<option value="2020">2020</option>
+					<option value="2021">2021</option> -->
+				</select">
+			</label>
+        </div>
+    </main>
+
+  <script type="text/javascript">
+
+	d3.select(window).on("resize", sizeChange);
+
+	let filename;
+
+	var svg = d3.select("#content")
+		.append("svg")
+		.attr("width", "100%")
+    	.append("g")
+		.on("click", reset);
+
+	width = +svg.attr("width");
+  	height = +svg.attr("height");
+
+    var projection = d3.geoMercator()
+	  .scale(6500)
+	  .center([-85, 13]);
+
+	var path = d3.geoPath().projection(projection);
+		
+	let zoom = d3.zoom()
+		  .scaleExtent([1, 8])
+		  .on('zoom', function() {
+			  svg.selectAll('path')
+			   .attr('transform', d3.event.transform);
+	});
+
+    var tip = d3.tip()
+        .attr('class', 'd3-tip')
+        .offset([-10, 0])
+		.html(function(d) {
+			var dataRow = data.get(d.properties.code_muni);
+			   if (dataRow) {
+					//console.log(dataRow);
+					let content = '<div>' 
+								+ '<strong>Municipio: </strong>' + '<span>' + dataRow.muni + '</span>' + '</br>' 
+								+ '<strong>Creditos: </strong>' + '<span>' + dataRow.Creditos + '</span>' + '</br>' 
+								+ '<strong>Monto: </strong>' + '<span>' + dataRow.Monto + '</span>' + '</br>' 
+								+ '<strong>Socias: </strong>' + '<span>' + dataRow.Socias + '</span>' + '</br>' 
+								+ '<strong>Año: </strong>' + '<span>' + dataRow.Anio + '</span>'
+								+ '</div>';
+				   //return dataRow.muni + ": " + dataRow.Creditos;
+				   return content;
+			   } else {
+				   //console.log("no dataRow", d);
+				   return d.properties.muni + ": No data.";
+			   }
+		});
+	
+
+	var periodo = d3.select('#periodo').on('change', function(a) {
+		currentKey = d3.select(this).property('value');
+		updateMapData();
+	});
+	
+	svg.call(zoom);
+	svg.call(tip);
+
+	function reset() {
+		svg.transition().duration(750).call(
+		zoom.transform,
+		d3.zoomIdentity,
+		d3.zoomTransform(svg.node()).invert([width / 2, height / 2])
+		);
+	}
+
+	var data = d3.map();
+	
+	d3.queue()
+	  .defer(d3.json, 'municipios.geojson')
+	  .defer(d3.csv, 'municipios.csv', typeAndSet)
+	  .await(createMap);
+
+	function updateMapData() {
+		filename = currentKey + ".csv"
+		d3.queue()
+	  	  .defer(d3.json, 'municipios.geojson')
+	  	  .defer(d3.csv, filename, typeAndSet);
+	}
+
+	function typeAndSet(d) {
+		console.log(d);
+		console.log(d);
+		d.Creditos = +d.Creditos;
+		data.set(d.code_muni, d);
+	}
+	
+	function createMap(error, geojson) {
+		
+		svg.append('g')
+			.selectAll('path')
+			.data(geojson.features)
+			.enter()
+			.append('path')
+			.attr('d', path)
+			.attr('fill', "#6BAED6")
+			.attr('class', 'mpio')
+			.on('mouseover', tip.show)
+			.on('mouseleave', tip.hide);
+	};
+
+	function sizeChange() {
+	    d3.select("g").attr("transform", "scale(" + $("#content").width()/900 + ")");
+	    $("svg").height($("#content").width()*0.618);
+	}
+    
+  </script>
+
+</body>
+</html>
